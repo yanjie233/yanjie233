@@ -1,10 +1,10 @@
 <div align="center">
   <h1>
     <img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="42" />
-    Hi, I'm YanJie
+    你好 👋 我是鄢杰
     <img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="42" />
   </h1>
-  <p><b>热爱技术 · 持续学习 · 乐于分享</b></p>
+  <p><b> 持续学习 · 乐于分享 </b></p>
 </div>
 
 ---
@@ -15,6 +15,7 @@
 - 🌱 持续学习后端、云原生与自动化相关技术
 - 🤝 喜欢与大家交流实践经验，一起进步
 - ✨ 目标是做出稳定、可靠、对用户有价值的产品
+- 🤖 AI鞭策大师、 Claude Code Yes代码员
 
 ## 📊 GitHub Stats
 
