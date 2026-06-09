@@ -17,14 +17,8 @@
 - ✨ 目标是做出稳定、可靠、对用户有价值的产品
 - 🤖 AI鞭策大师、 Claude Code Yes代码员
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yanjie233&show_icons=true&theme=tokyonight" alt="yanjie233 GitHub stats" />
-</div>
-
 ## 🏆 GitHub Profile Trophy
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yanjie233&column=8&margin-w=8&margin-h=8" alt="yanjie233 trophies" />
+  <img src="https://github-trophies.devomb.com/?username=yanjie233&theme=light" />
 </div>
